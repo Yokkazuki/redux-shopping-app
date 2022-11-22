@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.513c14de.css",
-    "main.js": "/static/js/main.92b6d92e.js",
-    "static/js/787.4c93e082.chunk.js": "/static/js/787.4c93e082.chunk.js",
-    "index.html": "/index.html",
-    "main.513c14de.css.map": "/static/css/main.513c14de.css.map",
-    "main.92b6d92e.js.map": "/static/js/main.92b6d92e.js.map",
-    "787.4c93e082.chunk.js.map": "/static/js/787.4c93e082.chunk.js.map"
+    "main.css": "/redux-shopping-app/static/css/main.513c14de.css",
+    "main.js": "/redux-shopping-app/static/js/main.7e8a6466.js",
+    "static/js/787.4c93e082.chunk.js": "/redux-shopping-app/static/js/787.4c93e082.chunk.js",
+    "index.html": "/redux-shopping-app/index.html",
+    "main.513c14de.css.map": "/redux-shopping-app/static/css/main.513c14de.css.map",
+    "main.7e8a6466.js.map": "/redux-shopping-app/static/js/main.7e8a6466.js.map",
+    "787.4c93e082.chunk.js.map": "/redux-shopping-app/static/js/787.4c93e082.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.513c14de.css",
-    "static/js/main.92b6d92e.js"
+    "static/js/main.7e8a6466.js"
   ]
 }
